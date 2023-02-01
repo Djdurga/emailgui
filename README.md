@@ -4,14 +4,14 @@ Using Angular(Frontend)
 
 
 
-Install the CLI using the npm package manager:
+1.)Install the CLI using the npm package manager:
 
 npm install -g @angular/cli
 
 
 
 
-To create, build, and serve a new, basic Angular project on a development server, go to the parent directory of your new workspace use the following commands: 
+2.)To create, build, and serve a new, basic Angular project on a development server, go to the parent directory of your new workspace use the following commands: 
 
 
 ng new my-first-project
